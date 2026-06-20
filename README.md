@@ -33,6 +33,3 @@ See `Project_Report.docx` / `Project_Report.pdf` for full methodology, the risk-
 
 Python (pandas, numpy) for data processing · React + Recharts for the dashboard · no API keys or backend required.
 
-## Running the dashboard
-
-The `.jsx` file is self-contained — drop it into any React environment (e.g., a Vite/CRA app, or Claude's own Artifacts feature) and render the default export. No additional setup or environment variables needed.
