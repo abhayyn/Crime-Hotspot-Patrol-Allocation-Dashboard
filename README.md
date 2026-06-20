@@ -28,7 +28,6 @@ See `Project_Report.docx` / `Project_Report.pdf` for full methodology, the risk-
 | `district_risk_scores.csv` | Aggregated district × month risk scores |
 | `build_dataset.py` | Script that builds the dataset from NCRB state-level anchors |
 | `enrich_dataset.py` | Adds coordinates and computes the risk score |
-| `Project_Report.docx` / `.pdf` | Full written project report |
 
 ## Tech stack
 
